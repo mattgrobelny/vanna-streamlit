@@ -11,7 +11,7 @@ python = ">=3.9,<3.9.7 || >3.9.7,<4.0"
 streamlit = "^1.26.0"
 python-dotenv = "^1.0.0"
 kaleido = "0.2.1"
-vanna = {extras = ["bigquery"], version = "^0.0.23"}
+vanna = {extras = ["chromadb","openai"], version = "^0.0.30"}
 db-dtypes = "^1.1.1"
 streamlit-code-editor = "^0.1.10"
 
